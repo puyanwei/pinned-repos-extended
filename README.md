@@ -31,6 +31,7 @@ In My Own RNG Ordering
 * 2D Portal Game
 * Make something that uses Blockchain
 * Play around with Cryptocurrency
+* Make a messenger, and chatbot
 
 # THE WHY
 
