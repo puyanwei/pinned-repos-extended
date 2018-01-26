@@ -28,9 +28,14 @@ In My Own RNG Ordering
 * Make an Atom package
 * Make a Slack App
 * Rock Paper Scissors
+* 2D Portal Game
+* Make something that uses Blockchain
+* Play around with Cryptocurrency
 
 # THE WHY
 
-Just making this page so for my own referral and for others to see if they want to check out my projects. There isn't enough spaces for the pinned repos!
+Just making this page so for my own referral and for others to see if they want to check out my projects. There isn't enough spaces in the pinned repos!
 
-A lot of the time github projects wont be finished or they wont have a readme so this is a good why to filter them out and show the ones which are completed. I say completed, but in reality I never feel satisfied with my projects and occasionally will go back to them, so they never really feel finished to me.
+A lot of the time github projects wont be finished or they wont have a readme so this is a good way to filter those ones out until they're ready. Its rare that I feel 100% satisfied with my projects I always think there are things that can be improved on.
+
+Examples of this could be refactoring the structure of the code, naming conventions, quality of tests its coverage, [SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design) principles, or a good readme.
