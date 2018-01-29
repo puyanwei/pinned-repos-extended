@@ -9,7 +9,7 @@
 * [**Notes App**](https://github.com/puyanwei/Notes-App-SPA) - Single page app built using only vanilla Javascript with no extra libraries of frameworks. Used a custom built testing framework Espresso. Used a strict model, views, controller structure.
 * [**Espresso**](https://github.com/puyanwei/espresso) - A custom made Testing Framework built in vanilla Javascript for testing the Notes App.
 
-* AirBnB - Website clone of the famous holiday room rental company. Uses a database to keep track of the members signing in and their bookings. This was a 1 week group project.
+* [AirBnB](https://github.com/puyanwei/DwepsNotePad) - Website clone of the famous holiday room rental company. Uses a database to keep track of the members signing in and their bookings. This was a 1 week group project.
 
 * [**Tic Tac Toe**](https://github.com/puyanwei/tic-tac-toe) - Ruby tech test adhering to strict coding principles.
 
@@ -32,14 +32,15 @@ In My Own RNG Ordering
 * Make card games
 * Make Hearthstone
 * Machine Learning, picture recognition
-* Code an AI for a
+* Code an AI for a game to play vs
 * Make an Atom package
 * Make a Slack App
 * Rock Paper Scissors
 * 2D Portal Game
 * Make something that uses Blockchain
 * Play around with Cryptocurrency
-* Make a messenger, and chatbot
+* Make a messenger and chatbot
+* Build an online shop
 
 # THE WHY
 
