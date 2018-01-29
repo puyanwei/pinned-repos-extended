@@ -50,4 +50,4 @@ Just making this page so for my own referral and for others to see if they want 
 
 A lot of the time github projects wont be finished or they wont have a readme so this is a good way to filter those ones out until they're ready. Its rare that I feel 100% satisfied with my projects I always think there are things that can be improved on.
 
-Examples of this could be refactoring the structure of the code, naming conventions, quality of tests its coverage, [SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design) principles, or a good readme.
+Examples of this could be refactoring the structure of the code, naming conventions, quality of tests its coverage, [SOLID](<https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)>) principles, or a good readme.
