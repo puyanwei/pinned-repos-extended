@@ -2,16 +2,24 @@
 
 ## List of Completed Projects
 
-* **Quark Text Editor** - Recreating a coding text editor built in 2 weeks. Inspired by Atom. Final group project for Makers Academy.
-* **Pokeball Run** - An iPhone game using the gyroscope for movement. 1 week group project.
-* **Notes App** - Single page app built using only vanilla Javascript with no extra libraries of frameworks. Used a custom built testing framework Espresso. Used a strict model, views, controller structure.
-* **Espresso** - A custom made Testing Framework built in vanilla Javascript for testing the Notes App.
-* AirBnB - Website clone using a Mongo DB database. 1 week group project.
-* **Tic Tac Toe** - Ruby tech test adhering to strict coding principles.
-* **Thermostat** - Web app to increase and decreate temperature, and includes use of an API weathermap.
-* **Sodoku Solver** - Interface for completing a sodoku puzzle. DOM manipulation practice.
+* [**Quark Text Editor**](https://github.com/puyanwei/Quark-Text-Editor) - Recreating a coding text editor built in 2 weeks. Inspired by Atom. Final group project for Makers Academy.
 
-// more to add, also must include links
+* [**Pokeball Run**](https://github.com/puyanwei/Pokeball-Run) - An iPhone game using the gyroscope for movement. 1 week group project.
+
+* [**Notes App**](https://github.com/puyanwei/Notes-App-SPA) - Single page app built using only vanilla Javascript with no extra libraries of frameworks. Used a custom built testing framework Espresso. Used a strict model, views, controller structure.
+* [**Espresso**](https://github.com/puyanwei/espresso) - A custom made Testing Framework built in vanilla Javascript for testing the Notes App.
+
+* AirBnB - Website clone of the famous holiday room rental company. Uses a database to keep track of the members signing in and their bookings. This was a 1 week group project.
+
+* [**Tic Tac Toe**](https://github.com/puyanwei/tic-tac-toe) - Ruby tech test adhering to strict coding principles.
+
+* [**Thermostat**](https://github.com/puyanwei/thermostat) - Web app to increase and decreate temperature, and includes use of an API weathermap.
+
+* [**Sodoku Solver**](https://github.com/puyanwei/soduku-solver) - Interface for completing a sodoku puzzle. DOM manipulation practice.
+
+* [**Bank System**](https://github.com/puyanwei/bank-tech-test) - A tech test imitating a banking system.
+
+* [**God of Cookery Takeaway**](https://github.com/puyanwei/The-God-of-Cookery-Takeaway) - Programme of a takeaway system inspired by one of my favourite films. Orders receive a confirmation by text message!
 
 # THE SOON
 
