@@ -43,6 +43,9 @@ In My Own RNG Ordering
 * Play around with Cryptocurrency
 * Make a messenger and chatbot
 * Build an online shop
+* What is functional programming
+* Check out GO
+* Contribute some CodeWars puzzles, Hearthstone related!
 
 # THE WHY
 
