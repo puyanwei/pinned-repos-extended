@@ -33,9 +33,8 @@
 *   [**Punchbag Game**](https://github.com/puyanwei/punchbag-game) - Interactive single page app built with vue.js inspired by the 60's batman series. Uploaded to heroku by using express.
 
 *   [**2048**](https://github.com/puyanwei/2048) - Building the famous mobile game for the web. Practicing testing for front end and back.
-*
 
-[**Battle**](https://github.com/puyanwei/battle-vue) - Quick battle webapp game. Practiced refactoring code.
+*   [**Battle**](https://github.com/puyanwei/battle-vue) - Quick battle webapp game using Vue.js. Practiced refactoring code.
 
 # THE SOON
 
