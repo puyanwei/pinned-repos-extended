@@ -2,39 +2,49 @@
 
 ## Completed Projects
 
-##### During The Makers Academy Course;
+### Desktop App
 
-*   [**Quark Text Editor**](https://github.com/puyanwei/Quark-Text-Editor) - Recreating a coding text editor built in 2 weeks. Inspired by Atom. Final group project for Makers Academy.
+*   [**Quark Text Editor**](https://github.com/puyanwei/Quark-Text-Editor) - Recreating a coding text editor built in 2 weeks. Inspired by Atom. Final group project for Makers Academy. Using Electron.
 
-*   [**Pokeball Run**](https://github.com/puyanwei/Pokeball-Run) - An iPhone game using the gyroscope for movement. 1 week group project.
+### Iphone App Game
 
-*   [**AirBnB**](https://github.com/puyanwei/Dr-PJs-Makers-Airbnb) - Website clone of the famous holiday room rental company. Uses a database to keep track of the members signing in and their bookings. This was a 1 week group project.
+*   [**Pokeball Run**](https://github.com/puyanwei/Pokeball-Run) - An iPhone game using the gyroscope for movement. 1 week group project built with Swift.
 
-*   [**Acebook**](https://github.com/puyanwei/acebook-bluejuly2017) - A Facebook [website clone](https://acebook-bluejuly.herokuapp.com). This was a 1 week group project done by the whole freaking 17 person cohort!
+### Website Clones
 
-*   [**Bank System**](https://github.com/puyanwei/bank-tech-test) - A tech test imitating a banking system.
+*   [**AirBnB**](https://github.com/puyanwei/Dr-PJs-Makers-Airbnb) - Website clone of the famous holiday room rental company. Uses a database to keep track of the members signing in and their bookings. This was a 1 week group project. Built with Node.js, Express, and Mongo DB.
 
-*   [**God of Cookery Takeaway**](https://github.com/puyanwei/The-God-of-Cookery-Takeaway) - Programme of a takeaway system inspired by one of my favourite films. Orders receive a confirmation by text message!
+*   [**Acebook**](https://github.com/puyanwei/acebook-bluejuly2017) - A Facebook [website clone](https://acebook-bluejuly.herokuapp.com). This was a 1 week group project done by the whole freaking 17 person cohort! Built by using Ruby on Rails.
 
-##### Post Makers Academy;
+*   [**Blog Website**](https://github.com/puyanwei/blog-vuejs) - Website built using Vue.js webpack.
+
+### Web Apps
 
 *   [**Notes App**](https://github.com/puyanwei/Notes-App-SPA) - Single page app built using only vanilla Javascript with no extra libraries of frameworks. Used a custom built testing framework Espresso. Used a strict model, views, controller structure.
 
-*   [**Espresso**](https://github.com/puyanwei/espresso) - A custom made Testing Framework built in vanilla Javascript for testing the Notes App.
-
-*   [**Tic Tac Toe**](https://github.com/puyanwei/tic-tac-toe) - Ruby tech test adhering to strict coding principles.
-
-*   [**Thermostat**](https://github.com/puyanwei/thermostat) - Web app to increase and decreate temperature, and includes use of an API weathermap.
+*   [**Thermostat**](https://github.com/puyanwei/thermostat) - Web app to increase and decrease temperature, and includes use of an API weathermap.
 
 *   [**Sodoku Solver**](https://github.com/puyanwei/soduku-solver) - Interface for completing a sodoku puzzle. DOM manipulation practice.
 
-*   [**Blog Website**](https://github.com/puyanwei/blog-vuejs) - Website built using vue.js webpack.
-
-*   [**Punchbag Game**](https://github.com/puyanwei/punchbag-game) - Interactive single page app built with vue.js inspired by the 60's batman series. Uploaded to heroku by using express.
-
-*   [**2048**](https://github.com/puyanwei/2048) - Building the famous mobile game for the web. Practicing testing for front end and back.
+*   [**Punchbag Game**](https://github.com/puyanwei/punchbag-game) - Interactive single page app built with Vue.js inspired by the 60's batman series. Uploaded to Heroku by using express.
 
 *   [**Battle**](https://github.com/puyanwei/battle-vue) - Quick battle webapp game using Vue.js. Practiced refactoring code.
+
+### Testing Framework
+
+*   [**Espresso**](https://github.com/puyanwei/espresso) - A custom made Testing Framework built in vanilla Javascript for testing the Notes App.
+
+### Classic Games
+
+*   [**2048**](https://github.com/puyanwei/2048) - Building the famous sliding puzzle game for the web. Practicing testing for front end and back.
+
+*   [**Tic Tac Toe**](https://github.com/puyanwei/tic-tac-toe) - Ruby tech test adhering to strict coding principles.
+
+### Programs
+
+*   [**Bank System**](https://github.com/puyanwei/bank-tech-test) - A tech test imitating a banking systemin Ruby.
+
+*   [**God of Cookery Takeaway**](https://github.com/puyanwei/The-God-of-Cookery-Takeaway) - Program of a takeaway system inspired by one of my favourite films. Orders receive a confirmation by text message! Built with Ruby and using the Twilio API.
 
 # THE SOON
 
